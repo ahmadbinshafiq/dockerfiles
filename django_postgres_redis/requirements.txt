@@ -1,0 +1,11 @@
+djangorestframework
+django-cors-headers
+psycopg2-binary
+requests
+pytz
+aioredis
+channels
+channels-redis
+hiredis
+pycryptodome
+python-dateutil

@@ -1,14 +1,12 @@
 # dockerfiles
 My Dockerfiles for different enviornments
 
-## postgressql
+## run 
+To run either of the dockerfiles. <br />
+`cd <folder-name>` <br />
 
-Contains the Dockerfile and docker-compose.yml file for postgres.
-
-To use this simply run
-    `sudo docker compose up` in postgressql dir.
-
-
+Then simply run
+    `sudo docker compose up` in that dir
 
 
 ## install docker on ubuntu distro
